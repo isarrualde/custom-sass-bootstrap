@@ -1,4 +1,4 @@
-# Custom Sass Bootstrap
+# Folder system
 
 ```
 your-project/
@@ -54,7 +54,8 @@ your-project/
         └── _header.scss
         
 ```    
-# Links
+
+## Bootstrap < meta > & Links
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -74,5 +75,10 @@ your-project/
 </script>
 
 ```   
+
+## Compilado Sass
+Compilamos ```main.scss``` a  ```main.css``` y voilà
+
+
 
 
