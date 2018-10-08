@@ -1,5 +1,4 @@
-# custom-sass-bootstrap
-My Custom Sass Bootstrap Template
+# Custom Sass Bootstrap
 
 your-project/
   ├── main.css
@@ -53,3 +52,5 @@ your-project/
         └── _general.scss
         └── _header.scss
         
+
+
